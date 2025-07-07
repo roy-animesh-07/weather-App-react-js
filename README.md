@@ -3,7 +3,7 @@
 A simple Weather app built with **React**, **JavaScript**, **Vite**  and backend in **Node.js and express.js**
 
 ## Live Demo 
-  //not deployed yet
+  [click here for live demo](https://weather-app-frontend-phlu.vercel.app/)
 ## Features
 
 - has realtime search bar
