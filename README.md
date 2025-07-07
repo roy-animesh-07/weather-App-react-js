@@ -3,7 +3,7 @@
 A simple Weather app built with **React**, **JavaScript**, **Vite**  and backend in **Node.js and express.js**
 
 ## Live Demo 
-  [Click here for live demo](https://calculator-react-app-amber.vercel.app/) 
+  //not deployed yet
 ## Features
 
 - has realtime search bar
